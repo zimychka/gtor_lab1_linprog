@@ -1,0 +1,1 @@
+# gtor_lab1_linprog
